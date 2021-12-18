@@ -30,7 +30,7 @@ if (condition1 != condition2):
 elif (condition1 == condition2 != condition3):
     print("Since the equation has no zero. Thus, The lines are parallel")
 
-elif (condition1 == condition2 == condition3):
+else:
     print("Since the equation has infinite number of zeroes. Thus, The lines are coincidental")  
       
   
